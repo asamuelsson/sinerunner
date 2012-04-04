@@ -1,0 +1,14 @@
+.res R_CANVAS_TEXTURE
+.image "resources/canvas.png"
+
+.res R_CANVAS_TEXTURE_HIT
+.image "resources/canvas_hit.png"
+
+.res R_CANVAS_TEXTURE_DEAD
+.image "resources/canvas_dead.png"
+
+.res R_CANVAS_TEXTURE_FINISH
+.image "resources/canvas_finish.png"
+
+.res R_CANVAS_TEXTURE_THROTTLE
+.image "resources/canvas_throttle.png"
